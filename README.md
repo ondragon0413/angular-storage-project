@@ -4,6 +4,7 @@
 # angular-storage [![Build Status](https://secure.travis-ci.org/auth0/angular-storage.svg?branch=master)](https://travis-ci.org/auth0/angular-storage)
 
 A Storage done right for AngularJS.
+
 ## Sponsor
 
 |||
